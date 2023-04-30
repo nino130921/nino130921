@@ -14,7 +14,7 @@
     --cor3:#40EA4A;
     --cor4:#88EE8E;
     --cor5:#1D6B22;
-    
+
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
     --font-android: 'android', cursive
@@ -38,7 +38,7 @@ main p {
 header {
     background-image: linear-gradient(to bottom, var(--cor5), var(--cor0));
     background-color: var(--cor5);
-   
+
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
@@ -57,7 +57,7 @@ header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     color: white;
-    min-width: 195px;
+    min-width: 400px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
@@ -106,11 +106,10 @@ main img.pequena {
 
 div.video {
     background-color: #3D6B40;
-    margin: 0px -19px 30px -17px;
-    padding: 116px;
+    margin: 0px -20px 30px -20px;
+    padding: 120px;
     position: relative;
     padding-bottom: 232px;
-}
 }
 
 div > iframe {
@@ -118,7 +117,7 @@ div > iframe {
     top: 6%;
     left: 3%;
     width: 94%;
-   
+
 }
 
 main h1 {
@@ -178,7 +177,7 @@ aside > ul {
     list-style-type: '\2714\00A0\00A0';
     list-style-position: inside;
     columns: 2;
-    
+
 }
 
 footer {
