@@ -55,12 +55,13 @@ header > h1 {
 
 header > p {
     font-family: var(--fonte-padrao);
-    font-size: 3em;
+    font-size: 1.2em;
     color: white;
+    max-width: 600px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    padding-bottom: 20px;
+    padding-bottom: 0px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.603);
 }
 
