@@ -107,17 +107,17 @@ main img.pequena {
 div.video {
     background-color: #3D6B40;
     margin: 0px -20px 30px -20px;
-    padding: 98px;
+    padding: 20px;
     position: relative;
-    padding-bottom: 198px;
+    padding-bottom: 50%;
 }
 
 div > iframe {
     position: absolute;
-    top: 6%;
-    left: 3%;
-    width: 94%;
-
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
 }
 
 main h1 {
