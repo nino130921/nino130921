@@ -106,10 +106,11 @@ main img.pequena {
 
 div.video {
     background-color: #3D6B40;
-    margin: 0px -19px 30px -19px;
-    padding: 98px;
+    margin: 0px -19px 30px -17px;
+    padding: 116px;
     position: relative;
-    padding-bottom: 200px;
+    padding-bottom: 232px;
+}
 }
 
 div > iframe {
